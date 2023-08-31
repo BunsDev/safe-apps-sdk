@@ -11,6 +11,7 @@
     "@safe-global/safe-apps-web3modal": "21.0.0"
   },
   "changesets": [
+    "curly-roses-deliver",
     "eleven-carpets-double"
   ]
 }
